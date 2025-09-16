@@ -8,12 +8,12 @@ This project is an interactive Excel Dashboard designed to analyze and visualize
 4) Clean and professional design for business use
 
 **File Information**
-1)Excel_Dashboard_Project.xlsm → Macro-enabled Excel workbook
-2)Built in Microsoft Excel 2016+
+1) Excel_Dashboard_Project.xlsm → Macro-enabled Excel workbook
+2) Built in Microsoft Excel 2016+
 
 **Requirements**
-1)Microsoft Excel 2016 or later
-2)Enable Macros when opening the file
+1) Microsoft Excel 2016 or later
+2) Enable Macros when opening the file
 
 **Screenshots**
 ## Screenshots
