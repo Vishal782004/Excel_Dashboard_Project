@@ -16,3 +16,6 @@ This project is an interactive Excel Dashboard designed to analyze and visualize
 2)Enable Macros when opening the file
 
 **Screenshots**
+## Screenshots
+
+![App Screenshot](https://github.com/user-attachments/assets/1013a0df-09c4-4761-8138-4a709b1adbaa)
